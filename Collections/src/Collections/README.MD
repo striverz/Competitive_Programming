@@ -1,0 +1,28 @@
+- Collection Interface
+  - List Interface
+    - ArrayList
+    - LinkedList
+    - Stack
+    - Vector
+  
+  - Set 
+    - HashSet
+    - TreeSet
+  - Queue
+    - ArrayDeque
+    - LinkedList
+    - PriorityQueue
+- Map
+    - HashMap
+    - TreeMap
+- Iterator
+- Custom Comparator
+- Custom Algorithms
+    - Collections.sort(list)
+    - Collections.max(list)
+    - Collections.min(list)
+    - Collections.reverse(list)
+    - Arrays.sort(array)
+    - Collections.frequency(list,element)
+    - Collections.binarySearch(list,key)
+    - Math.pow(base,exponent)
